@@ -1,12 +1,14 @@
 # iOctocat [![Build Status](https://travis-ci.org/dennisreimann/ioctocat.png?branch=master)](https://travis-ci.org/dennisreimann/ioctocat)
 
-[查看原版本](https://github.com/dennisreimann/ioctocat/tree/f6a31575707b0a51609a40bb32089eea97841612)
+
 … is a GitHub app for your iOS devices (iPad, iPhone and iPod Touch).
 It is open source and [available on the App Store](http://ioctocat.com/appstore-iphone).
 
 For further information visit the [project website](http://ioctocat.com).
 
 Your participation is welcome. Feel free to fork, add missing features or report issues :)
+
+[iOctocat v1 源码](https://github.com/dennisreimann/ioctocat/tree/f6a31575707b0a51609a40bb32089eea97841612)
 
 ## Further information
 
