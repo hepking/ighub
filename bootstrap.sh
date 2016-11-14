@@ -4,7 +4,7 @@ set -e
 echo "Installing dependencies..."
 
 # Install the submodules
-git submodule update --init
+# git submodule update --init
 
 # Install the dependencies
 which bundle >/dev/null 2>&1 || gem install bundler
